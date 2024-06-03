@@ -8,8 +8,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/balaji_raghavendran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="balaji_raghavendran" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@balajir0906/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@balajir0906" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/balaji_raghavendran/">
+    <img src="images/instagram.png" alt="instagram" width="45px" height="45px">
+ <a href="https://www.youtube.com/@balajir0906">
+    <img src="images/youtube.png" alt="youtube" width="45px" height="45px">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
