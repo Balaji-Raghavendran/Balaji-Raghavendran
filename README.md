@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Balaji-Raghavendran</h1>
 <h3 align="center">A junior Python developer with strong skills in Web Development tools like HTML and CSS, MySQL, VSCode, and GitHub. I specialize in creating efficient and scalable code, managing databases, and utilizing modern development tools for enhanced productivity. I am passionate about learning, problem-solving, and contributing to impactful projects. Let's connect and build something amazing together!</h3>
 
-- 🌱 I’m currently learning **Python programming language, Web development, MySQL and some UI/UX Designing**
+- 🌱 **I’m currently learning Python programming language, Web development, MySQL and some UI/UX Designing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
