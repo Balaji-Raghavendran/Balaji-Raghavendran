@@ -10,8 +10,6 @@
 <p align="left">
  <a href="https://www.instagram.com/balaji_raghavendran/">
     <img src="instagram.png" alt="instagram" width="45px" height="45px">
- <a href="https://www.youtube.com/@balajir0906">
-    <img src="youtube.png" alt="youtube" width="45px" height="45px">
 </p>
 
 <h3 align="left">Languages and Tools well known:</h3>
