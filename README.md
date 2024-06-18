@@ -8,6 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://www.linkedin.com/in/balaji-raghavendran09/">
+    <img src="https://github.com/Balaji-Raghavendran/Balaji-Raghavendran/blob/main/linkedin-logo-3.png" width="45px" height="45px">
  <a href="https://www.instagram.com/balaji_raghavendran/">
     <img src="instagram.png" alt="instagram" width="45px" height="45px">
 </p>
