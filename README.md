@@ -21,5 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balaji-raghavendran&show_icons=true&locale=en" alt="balaji-raghavendran" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balaji-raghavendran&" alt="balaji-raghavendran" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
