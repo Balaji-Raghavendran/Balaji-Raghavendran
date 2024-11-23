@@ -24,3 +24,7 @@
 
 <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=Balaji-Raghavendran&border_radius=20&background=EBEBEB00&ring=EB5454&fire=EB5454&currStreakNum=EBEBEB&border=EBEBEB&stroke=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB">
 
+
+ ![snake gif](https://github.com/Balaji-Raghavendran/Balaji-Raghavendran/blob/output/github-snake-dark.svg)
+   
+
