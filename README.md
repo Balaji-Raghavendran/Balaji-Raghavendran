@@ -2,7 +2,7 @@
    <img src="https://capsule-render.vercel.app/api?type=waving&height=275&color=gradient&text=Balaji%20Raghavendran&section=header&reversal=true&textBg=false&fontColor=ffffff&fontSize=80"/>
 </p>
 <h1 align="center">Hi 👋, I'm Balaji-Raghavendran</h1>
-<h3 align="center">A junior Python developer with strong skills in Web Development tools like HTML and CSS, MySQL, VSCode, and GitHub. I specialize in creating efficient and scalable code, managing databases, and utilizing modern development tools for enhanced productivity. I am passionate about learning, problem-solving, and contributing to impactful projects. Let's connect and build something amazing together!</h3>
+<h3 align="center">A junior Python developer with basic skills in Web Development tools like HTML and CSS, MySQL, VSCode, and GitHub. I specialize in creating efficient and scalable code, managing databases, and utilizing modern development tools for enhanced productivity. I am passionate about learning, problem-solving, and contributing to impactful projects. Let's connect and build something amazing together!</h3>
 
  <h3 align="center">I’m currently learning Python programming language, Web development, MySQL, C and C++ Programming language</h3>
 
